@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402965606603",
+    "firebase_url": "https://qchat-aea80-default-rtdb.firebaseio.com",
+    "project_id": "qchat-aea80",
+    "storage_bucket": "qchat-aea80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402965606603:android:be16bbd8a3bbd408b5eb4e",
+        "android_client_info": {
+          "package_name": "com.suman.qchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402965606603-t9ge2gma7f1njhtp84a2r98f9ftu9qif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suman.qchat",
+            "certificate_hash": "b5cf3b91a6b731837dd63deb355d7600736770fe"
+          }
+        },
+        {
+          "client_id": "402965606603-oveb73ghcqd42e7a9gca7vg8emmie6qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1j7UVRjr2_E6_39d8Y_dNtdep-r6tLwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402965606603-oveb73ghcqd42e7a9gca7vg8emmie6qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
