@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+        maven {
+            url ("https://jcenter.bintray.com")
+        }
+    }
+}
+rootProject.name = "QChat"
+include ':app'
